@@ -21,13 +21,13 @@ Aspiring Product Manager(currently Privacy and Public Health Analyst) based in E
   * Creating plans and communicating deadlines to ensure projects are completed on time
   * Auditing and keeping records accurate, detailed and fully compliant with reporting requirements to meet state, local and federal law requirements
   
-    **Data Analyst** @[Snohomish Health District](https://www.snohd.org/) (Contract)
+  **Data Analyst** @[Snohomish Health District](https://www.snohd.org/) (Contract)
   * Used critical thinking to break down problems, evaluate solutions and make decisions
   * Worked closely with Epidemiologists to maintain optimum levels of communication to effectively and efficiently complete projects
   * Created various Excel documents to assist with pulling metrics data and presenting them to give concise understanding of best placement for needed resources
   * Managed database to correct any data entry error to prevent later issues such as duplication or data degradation and Increased productivity by 10%
   
-  **Product Operations Coordinator** @[Fox Transportation Inc](https://www.dnb.com/business-directory/company-profiles.fox_transportation_inc.858344112f0c3ed53f1eb5cf4521f429.html)
+  **Product Operations Coordinator** @[Fox Transportation Inc](https://www.dnb.com/business-directory/company-profiles.fox_transportation_inc.858344112f0c3ed53f1eb5cf4521f429.html) (Company Permanently Closed) 
   * Managed two centers in team of 40 employees to ensure development plan and pathway to success was clear, transparent and served as point to team, stake holders and clients
   * Monitored business trends and made adjustments to customer needs, resulting in 15% increase in sales
   * Expanded cross-functional organizational capacity by collaborating across departments on priorities, functions and common goals
@@ -42,12 +42,12 @@ Aspiring Product Manager(currently Privacy and Public Health Analyst) based in E
   * Akan: Native
   
   ### Education<br>
-  Expected in June 2021<br>
+  Expected August 15, 2021<br>
   **University Of the People**<br>
   Pasadena, CA<br>
   Bachelor of Computer Science: Computer Science
   
-  June 2017<br>
+  June 2019<br>
   **Edmonds Community College**<br>
   Lynnwood, WA<br>
   Associate of Arts: Liberal Arts and Sciences
