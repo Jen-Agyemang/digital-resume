@@ -1,7 +1,6 @@
-## <h1>Jennifer Agyemang-Boafoh<h1> 
-  ![Jen Agyemang](http://url/to/img.png)<br>
+## Jennifer Agyemang-Boafoh
 Aspiring Product Manager(currently Privacy and Public Health Analyst) based in Everett, Washington <br>
-[Email](mailto:6oafoh@gmail.com)/[LinkedIn](LinkedIn.com/in/jen-agyemang)/[GitHub](github.com/Jen-Agyemang) /[Phone](2068223133)
+[Email](mailto:6oafoh@gmail.com)/[LinkedIn](https://linkedin.com/in/jen-agyemang)/[GitHub](https://github.com/Jen-Agyemang) 
 
 ### Technical Experience
 **Full Stack Intern** @[Prosper IT Consulting](https://www.learncodinganywhere.com/ProsperITConsulting) (March 2019 - June 2019)<br>
